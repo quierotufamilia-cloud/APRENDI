@@ -1,0 +1,6 @@
+{
+  "name": "mis calorías",
+  "description": "Aplicación web de tracking nutricional conversacional y intuitiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
